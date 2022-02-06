@@ -86,25 +86,22 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/* consolidate benefits */
+/* consolidated benefits */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
 
 .benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-
 .benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
 
 /* services */
 .service {
@@ -115,7 +112,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-/* consolidate services */
+/* consolidated services */
 
 
 .service img {
