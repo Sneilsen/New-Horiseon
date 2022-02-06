@@ -41,7 +41,7 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* basic text */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -59,7 +59,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* hero position */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -69,7 +69,7 @@ p {
     float: right;
     margin-left: 25px;
 }
-
+/* content */
 .content {
     width: 75%;
     display: inline-block;
@@ -86,7 +86,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* consolidate  */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -143,7 +143,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* consolidate services */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
